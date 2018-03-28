@@ -6,9 +6,10 @@
 
 ### JavaScript
 
-1. [详解JavaScript中的Event Loop（事件循环）机制](https://zhuanlan.zhihu.com/p/33058983)
+1. [详解 JavaScript 中的 Event Loop（事件循环）机制](https://zhuanlan.zhihu.com/p/33058983)
+2. [JavaScript 深入理解系列](https://github.com/mqyqingfeng/Blog)
 
 
 ### CSS
 
-1. [怎么画一条0.5px的边](https://juejin.im/post/5ab65f40f265da2384408a95)
+1. [怎么画一条 0.5px 的边](https://juejin.im/post/5ab65f40f265da2384408a95)
