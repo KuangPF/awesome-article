@@ -14,3 +14,7 @@
 
 1. [怎么画一条 0.5px 的边](https://juejin.im/post/5ab65f40f265da2384408a95)
 2. [CSS Modules 详解及 React 中实践](https://zhuanlan.zhihu.com/p/20495964)
+
+### React
+
+1. [Using a PureComponent in React](https://medium.com/front-end-weekly/using-a-purecomponent-in-reacts-262972f9f1e0)
