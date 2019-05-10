@@ -17,4 +17,4 @@
 
 ### React
 
-1. [Using a <PureComponent/> in React](https://medium.com/front-end-weekly/using-a-purecomponent-in-reacts-262972f9f1e0)
+1. [Using a PureComponent in React](https://medium.com/front-end-weekly/using-a-purecomponent-in-reacts-262972f9f1e0)
