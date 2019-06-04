@@ -8,6 +8,7 @@
 
 1. [详解 JavaScript 中的 Event Loop（事件循环）机制](https://zhuanlan.zhihu.com/p/33058983)
 2. [JavaScript 深入理解系列](https://github.com/mqyqingfeng/Blog)
+3. [I never understood JavaScript closures Until someone explained it to me like this …](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 
 
 ### CSS
