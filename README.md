@@ -1,8 +1,5 @@
-# HQ-Blog
+# Awesome Article
 
-> 旨在收集一些高质量的文章，也许有些是可遇不可求的
-
-> HQ 为 high-quality，总感觉有点怪怪的
 
 ### JavaScript
 
